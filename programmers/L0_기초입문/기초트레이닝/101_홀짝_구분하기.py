@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/181944
 # 알고리즘: 출력
 # 작성자: 학생
-# 작성일: 2026. 08. 10. 10:27:53
+# 작성일: 2026. 08. 10. 10:28:02
 
 a = int(input())
 if a%2 == 0 :
